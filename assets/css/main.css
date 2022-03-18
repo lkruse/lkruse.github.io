@@ -2945,8 +2945,7 @@ input, select, textarea {
 	}
 
 		#header > header .avatar {
-			/* margin: 0 auto 1.6875em auto; */
-			margin: 0 auto 1.0em auto;
+			margin: 0 auto 1.6875em auto;
 			width: 6em;
 		}
 
