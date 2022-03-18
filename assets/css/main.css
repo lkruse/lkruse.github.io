@@ -845,7 +845,7 @@ input, select, textarea {
 					margin-left: 25%;
 				}
 
-				.row > .col-4-large {
+				.row > .col-4 col-12-medium-large {
 					width: 33.33333%;
 				}
 
@@ -2402,13 +2402,17 @@ input, select, textarea {
 			}
 
 		.image.fit {
-			display: block;
+			/*display: block;*/
 			margin: 0 0 2em 0;
 			width: 100%;
+			text-align: center;
+			vertical-align: bottom;
 		}
 
 			.image.fit img {
 				width: 100%;
+				text-align: center;
+				vertical-align: bottom;
 			}
 
 /* List */
