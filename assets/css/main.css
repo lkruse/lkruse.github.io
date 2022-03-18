@@ -2301,28 +2301,34 @@ input, select, textarea {
 		}
 
 		.icon.style1:before {
-			color: #c3e895;
+			color: #788fa6;
 		}
+		/* #c3e895 */
 
 		.icon.style2:before {
-			color: #8addaa;
+			color: #68829c;
 		}
+		/* #8addaa */
 
 		.icon.style3:before {
-			color: #6bd4c8;
+			color: #5d768e;
 		}
+		/* #6bd4c8 */
 
 		.icon.style4:before {
-			color: #57aed3;
+			color: #495c6f;
 		}
+		/* #57aed3 */
 
 		.icon.style5:before {
-			color: #4a87d3;
+			color: #3f4f60;
 		}
+		/* #4a87d3 */
 
 		.icon.style6:before {
-			color: #6b88e6;
+			color: #354250;
 		}
+		/* #6b88e6 */
 
 		.icon.major {
 			text-decoration: none;
