@@ -2390,6 +2390,17 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.avatar {
+			border-radius: 100%;
+			overflow: hidden;
+		}
+
+			.image.avatar img {
+				border-radius: 100%;
+				display: block;
+				width: 100%;
+			}
+
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
@@ -2932,6 +2943,11 @@ input, select, textarea {
 		position: relative;
 		text-align: center;
 	}
+
+		#header > header .avatar {
+			margin: 0 auto 1.6875em auto;
+			width: 6em;
+		}
 
 		#header a {
 			border-bottom-color: rgba(255, 255, 255, 0.5);
