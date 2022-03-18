@@ -130,7 +130,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2300,33 +2300,34 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+
 		.icon.style1:before {
-			color: #e1e6eb;
+			color: #97a9ba;
 		}
 		/* #c3e895 */
 
 		.icon.style2:before {
-			color: #d4dce3;
+			color: #b0bdca;
 		}
 		/* #8addaa */
 
 		.icon.style3:before {
-			color: #c8d2db;
+			color: #bcc7d2;
 		}
 		/* #6bd4c8 */
 
 		.icon.style4:before {
-			color: #bcc7d2;
+			color: #c8d2db;
 		}
 		/* #57aed3 */
 
 		.icon.style5:before {
-			color: #b0bdca;
+			color: #d4dce3;
 		}
 		/* #4a87d3 */
 
 		.icon.style6:before {
-			color: #97a9ba;
+			color: #e1e6eb;
 		}
 		/* #6b88e6 */
 
