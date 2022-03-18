@@ -2845,7 +2845,8 @@ input, select, textarea {
 			background-attachment: fixed,							fixed;
 			/* background-image: url("images/overlay1.png"), url("../../images/header.jpg"); */
 			background-image: url("../../images/header.png");
-			background-size: auto,							cover;
+			/* background-size: auto,							cover; */
+			background-size: cover;
 		}
 
 			.main.style2 a {
